@@ -4,7 +4,8 @@
   "description": "Repositorio del Curso  Udemy: NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) - Typescript",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/app.js"
   },
   "repository": {
     "type": "git",
